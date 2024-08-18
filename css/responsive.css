@@ -1,0 +1,103 @@
+@media screen and (max-width: 720px){
+
+    .mar-top{
+        margin-top: 50px;
+    }
+    .mar-top-last{
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* /* 
+    #header{
+        width: 100%;
+        background: url(../images/responsive-bg.png) no-repeat;
+        background-position: center;
+        background-size: cover;
+        
+    }
+    .header-left{
+        width: 100%;
+    }
+    .header-left h2{
+        font-size: 27px;
+    }
+    .header-right{
+        width: 0;
+    }
+    .planing {
+        border-radius: 15px;
+        background: #464142;
+        padding: 20px;
+        margin-top: -70px;
+    }
+    .planing-main {
+        width: 100%;
+        display: block;
+        text-align: center;
+        
+    }
+    .planing-left h2 {
+        font-size: 25px;
+    }
+    .planing-left {
+        width: 100%;
+    }
+    .planing-right {
+        text-align: center;
+        margin-top: 20px;
+        width: 100%;
+    }
+    .resources {
+        padding-left: 0px; 
+        margin-bottom: 30px;
+    }
+    #mission {
+        padding: 50px 0 100px;
+    }
+    .mission-right {
+        margin-left: 0px; 
+    }
+    .res-mar{
+        margin-top: 50px;
+    }
+    .contack-mar{
+        margin: 20px 0;
+    }
+    .testmonail-details h4{
+        font-size: 18px;
+        font-weight: 600;
+        
+    }
+    .mission-left {
+        width: 100%;
+    }
+    .mission-right img {
+        width: 95%;
+    }
+    .nav-item {
+        padding-left: 13px !important;
+        margin-bottom: 12px;
+    }
+    .navbar-toggler-icon {
+        color: #a73455;
+    }
+    .section-pra{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+} */
+} 
